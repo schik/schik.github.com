@@ -7,8 +7,8 @@ modified: 2014-08-29
 
 Andreas likes
 
-* good music
-* playing the Spanish guitar
+* rock music
+* playing the guitar
 * coaching a children's football team
 * programming in Objective C
 
