@@ -1,5 +1,9 @@
 ---
 layout: post-index
-title: All Posts
+title: Archive
 excerpt: "All Posts"
+image:
+  feature: feature_image_1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
