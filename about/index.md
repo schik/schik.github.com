@@ -3,6 +3,10 @@ layout: page
 title: About
 tags: [about, author]
 modified: 2014-08-29
+image:
+  feature: sampleture_image_1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Mein Name ist Andreas Schik. Ich schreibe &uuml;ber alles Mögliche, meist aber
