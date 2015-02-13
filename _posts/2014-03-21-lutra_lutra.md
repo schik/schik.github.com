@@ -3,7 +3,11 @@ layout: post
 title: Who Are You Lutra Lutra??
 modified: 2014-03-21
 excerpt: "Soeben bin ich auf eine Band namens &quot;Who Are You Lutra Lutra??&quot; gestoßen, die etwas spröde aber sehr schöne Musik machen."
-tags: [Music]
+tags: [Music, Musik]
+image:
+  feature: feature_image_1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <figure>
