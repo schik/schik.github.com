@@ -5,6 +5,10 @@ Author: Andreas Schik
 date: 2015-02-13
 tags: [Music, Rock, Travel, Musik, Reisen]
 excerpt: Endlich mal wieder Zeit zum Musik hören auf dem Weg nach Hamburg. Ich sitze in der Bahn und es läuft der Boss.
+image:
+  feature: feature_image_1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Bahn fahren kann Spaß machen, vor allem wenn man einen ruhigen Platz hat und in Ruhe Musik hören kann. Mit Musik hören meine ich natürlich zuhören, und nicht, die Musik dudeln lassen, während man liest oder sonstwas treibt. Jetzt sitze ich also im Zug nach Hamburg und habe Zeit zum Musik hören. Mal sehen, was die Bibliothek so zu bieten hat und schnell fällt sie Wahl auf "Born To Run" von Bruce Springsteen. Jawohl, der Boss. Lange nicht gehört. Und je länger ich also zuhöre, desto mehr drängt sich die Frage auf, warum eigentlich?
