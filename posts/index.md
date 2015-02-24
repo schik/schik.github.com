@@ -1,7 +1,7 @@
 ---
 layout: post-index
-title: Archive
-excerpt: "All Posts"
+title: Archiv
+excerpt: "Alle Posts"
 image:
   feature: feature_image_1.jpg
   credit: WeGraphics

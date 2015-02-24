@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Über Mich
 tags: [about, author]
 modified: 2014-08-29
 image:

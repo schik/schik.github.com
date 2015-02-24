@@ -1,7 +1,10 @@
 # Site navigation links
 
-- title: About
+- title: Über Mich
   url: /about/
 
-- title: Archive
+- title: Archiv
   url: /posts/
+
+- title: Impressum
+  url: /impressum/
