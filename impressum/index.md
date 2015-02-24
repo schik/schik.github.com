@@ -53,7 +53,7 @@ Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der 
 
 Wenn Sie Facebook-Mitglied sind und nicht möchten, dass Facebook Daten über Sie sammelt und mit Ihren bei Facebook gespeicherten Mitgliedsdaten verknüpft, müssen Sie sich vor dem Klick auf einen Facebook-Link oder einen Facebook-Button bei Facebook ausloggen.
 
-#### Datenschutzerkl&auml;rung f&uuml;r die Nutzung von Google +1
+#### Datenschutzerkl&auml;rung f&uuml;r die Nutzung von Google+
 Unser Internetauftritt verlinkt Services des sozialen Netzwerkes Google+, welches von der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States betrieben wird (&#8220;Google&#8221;). Beim Besuch unseres Internet-Auftritts werden <b>keine</b> Daten an Google übertragen, da keine Plugins von Google eingebunden sind.
 
 Bei einem Klick auf einen Google+ Link oder Google+ Button gelangen Sie jedoch zu Google+ und dort werden Daten durch Google erhoben. Wir haben keinen Einfluss auf den Umfang der Daten, die Google erhebt.</p><p>Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Google sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte Googles <a href="http://www.google.com/intl/de/+/policy/index.html" target="_blank">Datenschutzhinweisen</a>.
