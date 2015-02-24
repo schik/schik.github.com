@@ -3,7 +3,11 @@ layout: post
 title: Heute Auf Dauerrotation&#58; Nick Cave and the Bad Seeds – Push the Sky (Remix)
 modified: 2014-05-02
 excerpt: "Der Titelsong von Nick Caves j&uuml;ngstem Album &quot;Push the Sky Away&quot; in neuem Gewand"
-tags: [Music]
+tags: [Music, Musik]
+image:
+  feature: feature_image_1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <figure>

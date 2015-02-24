@@ -6,6 +6,10 @@ categories: posts
 excerpt: "Burn.app was moved from SF.net to github.com"
 tags: [GNUstep, Burn, Software]
 date: 2015-01-29T15:09:29+01:00
+image:
+  feature: feature_image_1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Today, Burn.app was moved from SF.net to github.com. The main reason is that

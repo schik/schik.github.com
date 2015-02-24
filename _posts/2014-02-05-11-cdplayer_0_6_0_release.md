@@ -4,6 +4,10 @@ title: CDPlayer 0.6.0 Released
 modified: 2014-02-05
 excerpt: "Today, I released version 0.6.0 of CDPlayer.app. It's been a quite long time since the last release, but now it is here."
 tags: [CDPlayer, GNUstep, Releases, Software]
+image:
+  feature: feature_image_1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 Today, I released version 0.6.0 of CDPlayer.app. It's been a quite long time since the last release, but now it is here. It's main new features are:

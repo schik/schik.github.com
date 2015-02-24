@@ -3,7 +3,11 @@ layout: post
 title: Musikalische Entdeckung des Tages&#58; Kandle Osborne
 modified: 2014-05-21
 excerpt: "Heute stieß ich per Zufall auf das aktuelle Album &quot;in flames&quot; der kanadischen Songwriterin Kandle Osborne. Großartig."
-tags: [Music]
+tags: [Music, Musik]
+image:
+  feature: feature_image_1.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <figure>
