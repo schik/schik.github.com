@@ -10,6 +10,10 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
+<figure>
+  <img src="https://cloud.githubusercontent.com/assets/1445896/6708413/53dda460-cd70-11e4-9de0-c8e1bb6987c2.jpg" alt="Screenshot" />
+</figure>
+
 Today, I released version 0.2.0 of Snapshot.app. Snapshot is a program to download pictures from your digital camera. It uses an adapted version of CameraKit (included in the package) to handle the communication with the camera. Some of its features are:
 
 <ul>
