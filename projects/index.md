@@ -12,8 +12,8 @@ image:
 <table>
 
 <tr>
-<td><img src="../images/snapshot_icon.jpg" width="96" height="96" /></td>
-<td>Snapshot is an app to
+<td valign="top"><img src="../images/snapshot_icon.jpg" width="400%" /></td>
+<td valign="top">Snapshot is an app to
 manage the pictures on your digital camera. You can download the pictures to any
 folder on your local disk and delete them from the camera. Snapshot displays thumbnails
 and meta data of the pictures to simplify working with them. The project is hosted
