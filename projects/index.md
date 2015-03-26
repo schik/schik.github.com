@@ -12,7 +12,7 @@ image:
 <table>
 
 <tr>
-<td valign="top"><img src="../images/snapshot_icon.jpg" width="400%" /></td>
+<td valign="top"><img src="../images/snapshot_icon.jpg" width="400%" height="400%" /></td>
 <td valign="top">Snapshot is an app to
 manage the pictures on your digital camera. You can download the pictures to any
 folder on your local disk and delete them from the camera. Snapshot displays thumbnails
