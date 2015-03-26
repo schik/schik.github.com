@@ -12,7 +12,7 @@ image:
 <table>
 
 <tr>
-<td valign="top" width="240"><img src="../images/snapshot_icon.jpg" width="192" height="192" /></td>
+<td valign="top" width="60"><img src="../images/snapshot_icon.jpg" /></td>
 <td valign="top">Snapshot is an app to
 manage the pictures on your digital camera. You can download the pictures to any
 folder on your local disk and delete them from the camera. Snapshot displays thumbnails
@@ -21,7 +21,7 @@ on <a href="https://github.com/schik/snapshot">github.com</a>.</td>
 </tr>
 
 <tr>
-<td valign="top" width="240"><img src="../images/cdplayer_icon.jpg" width="192" height="192" /></td>
+<td valign="top" width="60"><img src="../images/cdplayer_icon.jpg" /></td>
 <td valign="top">CDPlayer is an app to play audio CDs on your computer. The project is hosted
 on <a href="https://github.com/schik/snapshot">github.com</a>.</td>
 </tr>
