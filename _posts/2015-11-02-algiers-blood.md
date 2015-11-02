@@ -19,3 +19,8 @@ image:
 Weitere Titel wie "Remains" oder "Black Eunuch" bestätigen die hohe Qualität dieses Trios und das selbstbetitelte Debütalbum steht schon ganz oben auf meiner Wunschliste.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g3L0NI8vcMg" frameborder="0" allowfullscreen></iframe>
+
+Nachtrag: Habe eben auf der Homepage der Band gesehen, dass sie am letzten Freitag in Frankfurt gespielt haben. Verdammt, 3 Tage zu spät. Schwacher Trost: ich hätte sowieso keine Zeit gehabt.
+
+Algiers im Netz:
+[Homepage](http://www.algierstheband.com)
